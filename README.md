@@ -1,7 +1,7 @@
 # Lead Scoring Project
 Author - Adithya Ramachar 
 
-This project aims to predict the likelihood of a lead being converted into a customer using machine learning techniques.
+This project aims to predict the likelihood of a lead being converted into a customer using logistic regression techniques.
 
 ## Dataset
 
